@@ -1,16 +1,19 @@
-### Hi, i´m Ignacio 👋
+### Hi, i´m ...
 
-<!--
-**ignacioccugura/ignacioccugura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/ignacioccugura/ignacioccugura/blob/main/nombre.gif"/>
 
-Here are some ideas to get you started:
+<p><em>An Information Systems Engineering Student from Argentina</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class Student:
+  def __init__(self):
+    self.name = "Ignacio Cruz Cugura"
+    self.role = "Student of Information Systems Engineering"
+    self.languages = ["Spanish","English"]
+    self.code = ["Java","C#","Python","Javascript"]
+    
+    
+  def hi():
+    print("Thanks for visiting my profile!")
+
+```
