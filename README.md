@@ -13,7 +13,7 @@ class Student:
     self.code = ["Java","C#","Python","Javascript"]
     
     
-  def hi():
+  def hi(self):
     print("Thanks for visiting my profile!")
 
 ```
