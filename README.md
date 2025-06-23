@@ -5,15 +5,15 @@
 <p><em>An Information Systems Engineering Student from Argentina</em></p>
 
 ```python
-class Student:
+class Developer:
   def __init__(self):
     self.name = "Ignacio Cruz Cugura"
-    self.role = "Student of Information Systems Engineering"
+    self.role = ["Information Systems Engineering Student", "Software Developer"]
     self.languages = ["Spanish","English"]
-    self.code = ["Java","C#","Python","Javascript"]
+    self.code = ["Java","C#","Python","GO"]
     
     
   def hi(self):
-    print("Thanks for visiting my profile!")
+    return "Thanks for visiting my profile!"
 
 ```
