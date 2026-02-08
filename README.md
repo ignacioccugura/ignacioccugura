@@ -2,15 +2,15 @@
 
 <img src="https://github.com/ignacioccugura/ignacioccugura/blob/main/nombre.gif"/>
 
-<p><em>An Information Systems Engineering Student from Argentina</em></p>
+<p><em>An Information Systems Engineer from Argentina</em></p>
 
 ```python
-class Developer:
+class Engineer:
   def __init__(self):
     self.name = "Ignacio Cruz Cugura"
-    self.role = ["Information Systems Engineering Student", "Software Developer"]
+    self.role = "Software Engineer SSR"
     self.languages = ["Spanish","English"]
-    self.code = ["Java","C#","Python","GO"]
+    self.code = ["Java","Python","GO"]
     
     
   def hi(self):
